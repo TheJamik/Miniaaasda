@@ -1,0 +1,44 @@
+{
+  "test_user_123": {
+    "transactions": [
+      {
+        "id": 1,
+        "type": "income",
+        "category": "salary",
+        "amount": 50000.0,
+        "description": "Тестовая зарплата",
+        "date": "2025-08-18T02:53:30.072888",
+        "timestamp": 1755467610.072888
+      }
+    ],
+    "budgets": {},
+    "goals": [],
+    "currency": "RUB",
+    "settings": {
+      "theme": "light",
+      "notifications": true,
+      "language": "ru"
+    }
+  },
+  "user_1755467642739_x9l0nax39": {
+    "transactions": [
+      {
+        "id": 1,
+        "type": "income",
+        "category": "business",
+        "amount": 100.0,
+        "description": "",
+        "date": "2025-08-18T02:54:22.202810",
+        "timestamp": 1755467662.20281
+      }
+    ],
+    "budgets": {},
+    "goals": [],
+    "currency": "RUB",
+    "settings": {
+      "theme": "light",
+      "notifications": true,
+      "language": "ru"
+    }
+  }
+}

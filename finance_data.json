@@ -1,0 +1,18 @@
+{
+  "6854198955": {
+    "transactions": [
+      {
+        "id": 1,
+        "type": "income",
+        "category": "investments",
+        "amount": 1231.0,
+        "description": "вфыв",
+        "date": "2025-08-18T02:45:49.198675",
+        "timestamp": 1755467149.198675
+      }
+    ],
+    "budgets": {},
+    "goals": [],
+    "currency": "RUB"
+  }
+}

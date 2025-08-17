@@ -1,0 +1,23 @@
+{
+  "telegram_user_1755468867800": {
+    "transactions": [
+      {
+        "id": 1,
+        "type": "income",
+        "category": "investments",
+        "amount": 123.0,
+        "description": "12312",
+        "date": "2025-08-18T03:14:32.551674",
+        "timestamp": 1755468872.551674
+      }
+    ],
+    "budgets": {},
+    "goals": [],
+    "currency": "RUB",
+    "settings": {
+      "theme": "light",
+      "notifications": true,
+      "language": "ru"
+    }
+  }
+}
